@@ -206,7 +206,7 @@ public class Electrode3100 {
 
     public void pickAlgo(Jobs jobs) {
 
-        AlgorythmType chooseAlgo = new AlgorythmType(serverArrayList, serverList);
+        AlgorithmType chooseAlgo = new AlgorithmType(serverArrayList, serverList);
 
         Server newServer = null;
         if (algo.equals("ff")) {
