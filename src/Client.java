@@ -17,8 +17,9 @@ public class Client {
                     electrode3100.algo = "ff";
                 } else if (args[1].equals("wf")) {
                     electrode3100.algo = "wf";
+                }
             }
+            electrode3100.run();
         }
-        electrode3100.run();
     }
 }
