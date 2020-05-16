@@ -2,7 +2,7 @@
 
 This is a computing project to develop job distributing system. The programming language used was Java.
 
-###### STAGE 1 DEMO INSTRUCTIONS
+###### STAGE 2 DEMO INSTRUCTIONS
 
 #####  PRE-CONDITION:
 	- We need to have the files from ds-sim under one folder.
